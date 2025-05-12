@@ -1,0 +1,2 @@
+This study demonstrates the feasibility of EKI for estimating seismic ray parameters in 1D spherical models without gradient information. By leveraging ensemble statistics, EKI avoids the computational burden of Jacobian matrix calculations while maintaining robustness to noise and ensemble size. 
+The comparative analysis between the EKI inversion method and the TAUP software package highlights the efficacy and limitations of EKI in global seismic phase calculations.
